@@ -1,0 +1,31 @@
+# wtf is this code bro
+
+define oopify(prefix) -> prefix + "oop"
+
+define join(elements, separator)
+	declare result = ""
+	declare len = len(elements)
+
+	foreach i = 0 TO len then
+		declare result = result + elements/i
+		if i != len - 1 then declare result = result + separator
+	END
+
+	return result
+END
+
+define map(elements, definec)
+	declare new_elements = []
+
+	foreach i = 0 TO len(elements) then
+		APPEND(new_elements, func(elements/i))
+	END
+
+	return new_elements
+END
+
+printT("Greetings universe!")
+
+foreach i = 0 TO 5 then
+	printT(join(map(["l", "sp"], oopify), ", "))
+END
