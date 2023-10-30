@@ -1,6 +1,6 @@
 # Scrap Programming Language
 
-Welcome to Scrap, an unconventional programming language that combines Python's functionality with a twist of bizarre syntax. If you're wondering, "wtf is this bro?" you're in the right place! Let's dive into the peculiar world of Scrap.
+Welcome to Scrap, an unconventional programming language that created with 3 hours, it combines Python's functionality with a twist of bizarre syntax. If you're wondering, "wtf is this bro?" you're in the right place! Let's dive into the peculiar world of Scrap.
 
 ## Introduction
 
@@ -11,7 +11,7 @@ Scrap is a unique programming language that challenges traditional Python syntax
 Scrap syntax is a fusion of Python and absurdity. Here are the key elements:
 
 - **Define Function:** `define function_name(parameters) -> expression` defines a function. Yes, it starts with "define" and uses "->" for the return statement.
-- **Loops:** Scrap replaces Python's "for" loops with `foreach i = start TO end then` for loop iterations.
+- **Loops:** Scrap replaces Python's "for" loops with `foreach i = start to end then` for loop iterations.
 - **Conditional:** The traditional "if" statement is absent; Scrap relies on implicit conditions within loops and functions.
 - **Print:** Output to the console is achieved using `printT()`, a quirky cousin of Python's `print()` function.
 - **List Manipulation:** Scrap introduces its unique `append()` function for list operations.
