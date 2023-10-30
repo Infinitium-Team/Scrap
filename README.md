@@ -63,3 +63,7 @@ END
 This code snippet demonstrates the usage of Scrap functions. It prefixes the elements of the list ["l", "sp"] with "oop", then joins them with a comma and prints the result.
 
 In Scrap, be prepared for the unexpected! Happy coding, or should I say, happy Scraping? 😄
+
+⚠️ MIT License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Infinitium-Team/Scrap/blob/main/LICENSE) file for details.
