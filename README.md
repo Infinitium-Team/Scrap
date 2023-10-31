@@ -1,4 +1,4 @@
-# Scrap Programming Language
+# Scrap
 
 Welcome to Scrap, an unconventional programming language that created with 3 hours, it combines Python's functionality with a twist of bizarre syntax. If you're wondering, "wtf is this bro?" you're in the right place! Let's dive into the peculiar world of Scrap.
 
