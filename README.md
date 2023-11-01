@@ -16,17 +16,6 @@ Scrap syntax is a fusion of Python and absurdity. Here are the key elements:
 - **Print:** Output to the console is achieved using `printT()`, a quirky cousin of Python's `print()` function.
 - **List Manipulation:** Scrap introduces its unique `append()` function for list operations.
 
-## Functions
-
-### `oopify(prefix) -> str`
-Concatenates "oop" to the given prefix and returns the result.
-
-### `join(elements, separator) -> str`
-Joins a list of elements into a string, separated by the specified separator.
-
-### `map(elements, func) -> list`
-Applies the given function to each element of the list and returns a new list with the results.
-
 ## Example Usage
 
 ```
